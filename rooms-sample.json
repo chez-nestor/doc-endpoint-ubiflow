@@ -1,0 +1,105 @@
+{ "rooms": [{
+	"id": "89617886-e4ca-4375-9954-9346d133d5d0",
+	"reference": "20100GAM23",
+	"type": "room",
+	"contract": "rental",
+	"name": { "fr-FR": "100 Gambetta - chambre 3" },
+	"availableAt": "1970-01-01T00:00:00.000Z",
+	"addressStreet": "16 rue de Condé",
+	"addressZip": "69003",
+	"addressCity": "Lyon",
+	"addressCountry": "France",
+	"neighborhood": "Perrache - Presqu'île",
+	"latLng": " 45.752013,4.826650",
+	"floor": 7,
+	"roomFloorArea": 16,
+	"roomCount": 3,
+	"apartmentFloorArea": 76,
+	"currentPrice": 1108,
+	"serviceFees": 30,
+	"neighborhoodDescription": { "fr-FR": "…" },
+	"apartmentDescription": { "fr-FR": "…" },
+	"roomDescription": { "fr-FR": "…" },
+	"canonicalUrl": "https://beta.chez-nestor.com/room/89617886-e4ca-4375-9954-9346d133d5d0",
+	"gallery": [{
+		"alt": "La chambre",
+		"url": "https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/c2b7c92e-aa32-4367-80be-ab4dbb90d535?1513864042761"
+	}, {
+		"alt": "…",
+		"url": "https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/…"
+	}],
+	"beds": "double",
+	"room-features-sleep": [
+		"sofa", "…"
+	],
+	"room-features-work": [
+		"lamp", "…"
+	],
+	"room-features-dress": [
+		"mirror", "…"
+	],
+	"room-features-general": [
+		"balcony", "…"
+	],
+	"apartment-features-kitchen": [
+		"oven", "…"
+	],
+	"apartment-features-bathroom": [
+		"shower", "…"
+	],
+	"apartment-features-general": [
+		"wifi", "…"
+	]
+}, {
+	"id": "d59c7b36-5e27-48bb-91a3-356fdf6f4f07",
+	"reference": "8AGR24",
+	"type": "room",
+	"contract": "rental",
+	"name": { "fr-FR": "8 Agriculture - chambre 4" },
+	"availableAt": "1970-01-01T00:00:00.000Z",
+	"addressStreet": "8 avenue de l'école d'agriculture",
+	"addressZip": "34000",
+	"addressCity": "Montpellier",
+	"addressCountry": "France",
+	"neighborhood": "Les Arceaux",
+	"latLng": "43.6123266,3.8613021",
+	"floor": 2,
+	"roomFloorArea": 29,
+	"roomCount": 4,
+	"apartmentFloorArea": 81,
+	"currentPrice": 668,
+	"serviceFees": 30,
+	"neighborhoodDescription": { "fr-FR": "…" },
+	"apartmentDescription": { "fr-FR": "…" },
+	"roomDescription": { "fr-FR": "…" },
+	"canonicalUrl": "https://beta.chez-nestor.com/room/d59c7b36-5e27-48bb-91a3-356fdf6f4f07",
+	"gallery": [{
+		"alt": "La chambre",
+		"url": "https://s3-eu-west-1.amazonaws.com/pictures.chez-nestor.com/ff69a892-6aca-4833-a86a-cbb8f7508211?1513864078553"
+	}, {
+		"alt": "…",
+		"url": "https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/…"
+	}],
+	"beds": "simple+sofa",
+	"room-features-sleep": [
+		"sofa", "…"
+	],
+	"room-features-work": [
+		"lamp", "…"
+	],
+	"room-features-dress": [
+		"mirror", "…"
+	],
+	"room-features-general": [
+		"balcony", "…"
+	],
+	"apartment-features-kitchen": [
+		"oven", "…"
+	],
+	"apartment-features-bathroom": [
+		"shower", "…"
+	],
+	"apartment-features-general": [
+		"wifi", "…"
+	]
+}] }
