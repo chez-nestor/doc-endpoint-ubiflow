@@ -1,0 +1,19 @@
+{
+  "name": "cheznestor-ubiflow",
+  "version": "1.0.0",
+  "description": "Documentation and samples of our API for Ubiflow",
+  "main": "enums.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chez-nestor/ubiflow.git"
+  },
+  "author": "@louis_remi",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/chez-nestor/ubiflow/issues"
+  },
+  "homepage": "https://github.com/chez-nestor/ubiflow#readme",
+}
