@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chez-nestor/ubiflow.git"
+    "url": "git+https://github.com/chez-nestor/doc-endpoint-ubiflow.git"
   },
   "author": "@louis_remi",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/chez-nestor/ubiflow/issues"
+    "url": "https://github.com/chez-nestor/doc-endpoint-ubiflow/issues"
   },
-  "homepage": "https://github.com/chez-nestor/ubiflow#readme",
+  "homepage": "https://github.com/chez-nestor/doc-endpoint-ubiflow#readme",
 }
