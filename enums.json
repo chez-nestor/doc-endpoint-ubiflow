@@ -32,11 +32,11 @@
 			"fr-FR": "Loggia",
 			"en-US": "Loggia"
 		},
-		"living-room": {
+		"livingroom": {
 			"fr-FR": "Séjour",
 			"en-US": "Living room"
 		},
-		"dining-room": {
+		"diningroom": {
 			"fr-FR": "Salle à manger",
 			"en-US": "Dining room"
 		},
@@ -91,7 +91,27 @@
 		"room10": {
 			"fr-FR": "Chambre 10",
 			"en-US": "Room 10"
-		}
+		},
+		"overview": {
+			"fr-FR": "Vue d'ensemble de la chambre",
+			"en-US": "Overview of the room",
+		},
+		"bed": {
+			"fr-FR": "Lit",
+			"en-US": "Bed",
+		},
+		"dressing": {
+			"fr-FR": "Dressing",
+			"en-US": "Dressing",
+		},
+		"dresser": {
+			"fr-FR": "Commode",
+			"en-US": "Overview",
+		},
+		"bookstore": {
+			"fr-FR": "Bibliothèque",
+			"en-US": "Bookstore",
+		},
 	},
 	"beds": {
 		"double": {
