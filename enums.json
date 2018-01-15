@@ -100,10 +100,6 @@
 			"fr-FR": "Lit",
 			"en-US": "Bed"
 		},
-		"dressing": {
-			"fr-FR": "Dressing",
-			"en-US": "Dressing"
-		},
 		"dresser": {
 			"fr-FR": "Commode",
 			"en-US": "Overview"
@@ -111,7 +107,7 @@
 		"bookstore": {
 			"fr-FR": "Bibliothèque",
 			"en-US": "Bookstore"
-		},
+		}
 	},
 	"beds": {
 		"double": {
@@ -167,7 +163,7 @@
 		"netCurtains": {
 			"en-US": "Net Curtains",
 			"fr-FR": "Voilage"
-		},
+		}
 	},
 	"room-features-work": {
 		"deskAndChair": {
@@ -185,7 +181,7 @@
 		"multiSocket": {
 			"en-US": "Multi-Socket Extension Cable",
 			"fr-FR": "Multiprise"
-		},
+		}
 	},
 	"room-features-dress": {
 		"storage": {
@@ -203,7 +199,7 @@
 		"walkinWardrobe": {
 			"en-US": "Walk-in Wardrobe",
 			"fr-FR": "Dressing Privé"
-		},
+		}
 	},
 	"room-features-general": {
 		"sofa": {
@@ -257,7 +253,7 @@
 		"individualHeating": {
 			"en-US": "Individual Heating",
 			"fr-FR": "Chauffage Individuel"
-		},
+		}
 	},
 	"apartment-features-kitchen": {
 		"bakingTrays": {
@@ -351,7 +347,7 @@
 		"storage": {
 			"en-US": "Storage",
 			"fr-FR": "Rangements"
-		},
+		}
 	},
 	"apartment-features-bathroom": {
 		"bathtub": {
@@ -377,7 +373,7 @@
 		"sink": {
 			"en-US": "Sink",
 			"fr-FR": "Lavabo"
-		},
+		}
 	},
 	"apartment-features-general": {
 		"wifi": {
