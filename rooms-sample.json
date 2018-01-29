@@ -71,6 +71,8 @@
 	"apartmentFloorArea": 81,
 	"currentPrice": 668,
 	"serviceFees": 30,
+	"housingPacks": [490, 690, 890],
+	"agencyFeesDescription": { "fr-FR": "à partir de 490€", "en-US": "starting from 490€" },
 	"neighborhoodDescription": { "fr-FR": "…" },
 	"apartmentDescription": { "fr-FR": "…" },
 	"roomDescription": { "fr-FR": "…" },
