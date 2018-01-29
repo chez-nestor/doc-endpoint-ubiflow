@@ -392,8 +392,8 @@
 			"en-US": "Storage",
 			"fr-FR": "Rangements",
 		},
-		"coat-hanger": {
-			"en-US": " Coat-hanger",
+		"coatHanger": {
+			"en-US": "Coat-hanger",
 			"fr-FR": "Cintres",
 		},
 		"sofa": {

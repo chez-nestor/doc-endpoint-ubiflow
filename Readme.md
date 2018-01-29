@@ -45,6 +45,10 @@
 		*number* Prix actuel de la chambre (en €)
 - `serviceFees` :
 		*number* Frais provisionels - eau, électricité, internet, gaz (en €)
+- `housingPacks` :
+		*array* contenant uniquement des *number* Prix des différents packs-logement
+- 'agencyFeesDescription':
+		*hashmap* de type *i18n* Description des frais d'agence (prix minimum du pack-logement)
 - `neighborhoodDescription` :
 		*hashmap* de type *i18n* Description du quartier
 - `apartmentDescription` :
