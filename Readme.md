@@ -45,24 +45,14 @@
 		*number* Prix actuel de la chambre (en €)
 - `serviceFees` :
 		*number* Frais provisionels - eau, électricité, internet, gaz (en €)
-- `housingPacks` :
-		*array* contenant uniquement des *number* Prix des différents packs-logement
 - `agencyFeesDescription` :
 		*hashmap* de type *i18n* Description des frais d'agence (prix minimum du pack-logement)
-- `neighborhoodDescription` :
-		*hashmap* de type *i18n* Description du quartier
-- `apartmentDescription` :
-		*hashmap* de type *i18n* Description de l'appartment
-- `roomDescription` :
-		*hashmap* de type *i18n* Description de la chambre
+- `fullDescription` :
+		*hashmap* de type *i18n* Description de la chambre, du logement et du quartier + explication des frais d'agence
 - `canonicalUrl` :
 		*string* Url de la page de description du bien sur le site Chez Nestor
 - `gallery` :
 		*array* contenant uniquement des *hashmap* de type *Picture*
-- `beds` :
-		*string* référence vers l'enum `beds`
-- `room-features-xxx`, `apartment-features-xxx` :
-		*array* de *string* références vers les enums correspondants
 		
 ### type *Picture*
 *hashmap* contenant les clefs suivantes :

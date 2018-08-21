@@ -17,11 +17,8 @@
 	"apartmentFloorArea": 76,
 	"currentPrice": 1108,
 	"serviceFees": 30,
-	"housingPacks": [590, 790, 990],
 	"agencyFeesDescription": { "fr-FR": "à partir de 590€", "en-US": "starting from 590€" },
-	"neighborhoodDescription": { "fr-FR": "…" },
-	"apartmentDescription": { "fr-FR": "…" },
-	"roomDescription": { "fr-FR": "…" },
+	"fullDescription": { "fr-FR": "…" },
 	"canonicalUrl": "https://beta.chez-nestor.com/room/89617886-e4ca-4375-9954-9346d133d5d0",
 	"gallery": [{
 		"alt": "La chambre",
@@ -30,28 +27,6 @@
 		"alt": "…",
 		"url": "https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/…"
 	}],
-	"beds": "double",
-	"room-features-sleep": [
-		"sofa", "…"
-	],
-	"room-features-work": [
-		"lamp", "…"
-	],
-	"room-features-dress": [
-		"mirror", "…"
-	],
-	"room-features-general": [
-		"balcony", "…"
-	],
-	"apartment-features-kitchen": [
-		"oven", "…"
-	],
-	"apartment-features-bathroom": [
-		"shower", "…"
-	],
-	"apartment-features-general": [
-		"wifi", "…"
-	]
 }, {
 	"id": "d59c7b36-5e27-48bb-91a3-356fdf6f4f07",
 	"reference": "8AGR24",
@@ -71,11 +46,8 @@
 	"apartmentFloorArea": 81,
 	"currentPrice": 668,
 	"serviceFees": 30,
-	"housingPacks": [490, 690, 890],
 	"agencyFeesDescription": { "fr-FR": "à partir de 490€", "en-US": "starting from 490€" },
-	"neighborhoodDescription": { "fr-FR": "…" },
-	"apartmentDescription": { "fr-FR": "…" },
-	"roomDescription": { "fr-FR": "…" },
+	"fullDescription": { "fr-FR": "…" },
 	"canonicalUrl": "https://beta.chez-nestor.com/room/d59c7b36-5e27-48bb-91a3-356fdf6f4f07",
 	"gallery": [{
 		"alt": "La chambre",
@@ -84,26 +56,4 @@
 		"alt": "…",
 		"url": "https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/…"
 	}],
-	"beds": "simple+sofa",
-	"room-features-sleep": [
-		"sofa", "…"
-	],
-	"room-features-work": [
-		"lamp", "…"
-	],
-	"room-features-dress": [
-		"mirror", "…"
-	],
-	"room-features-general": [
-		"balcony", "…"
-	],
-	"apartment-features-kitchen": [
-		"oven", "…"
-	],
-	"apartment-features-bathroom": [
-		"shower", "…"
-	],
-	"apartment-features-general": [
-		"wifi", "…"
-	]
 }] }
