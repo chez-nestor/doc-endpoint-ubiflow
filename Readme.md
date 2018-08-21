@@ -17,8 +17,8 @@
 		*string* Type de bien (toujours `room` → chambre)
 - `contract` :
 		*string* Type de contrat (toujours `rental` → location)
-- `name` :
-		*hashmap* de type *i18n* Nom du bien
+- `nameFR` :
+		*string* Nom du bien en français
 - `availableAt` :
 		*string* Date de disponibilité du bien (format ISO 8601)
 - `addressStreet` :
@@ -45,22 +45,12 @@
 		*number* Prix actuel de la chambre (en €)
 - `serviceFees` :
 		*number* Frais provisionels - eau, électricité, internet, gaz (en €)
-- `agencyFeesDescription` :
-		*hashmap* de type *i18n* Description des frais d'agence (prix minimum du pack-logement)
-- `fullDescription` :
-		*hashmap* de type *i18n* Description de la chambre, du logement et du quartier + explication des frais d'agence
+- `agencyFeesDescriptionFR` :
+		*string* Description des frais d'agence (prix minimum du pack-logement) en français
+- `fullDescriptionFR` :
+		*string* Description de la chambre, du logement et du quartier + explication des frais d'agence en français
 - `canonicalUrl` :
 		*string* Url de la page de description du bien sur le site Chez Nestor
 - `gallery` :
-		*array* contenant uniquement des *hashmap* de type *Picture*
-		
-### type *Picture*
-*hashmap* contenant les clefs suivantes :
+		*array* contenant uniquement des *string* indiquant les urls de chaque image de la galerie. Pour des résons techniques, la description de l'image est inclue à la fin de l'url : "https://www.chez-nestor.com/…&alt=description+de+la+photo"
 
-- `alt` :
-		*string* référence vers l'enum `pictures-alts`
-- `url` :
-		*string* Url de la photo
-
-### type *i18n*
-*hashmap* contenant des textes traduits dans différentes locales (`fr-FR`, et éventuellement `en-US`)
