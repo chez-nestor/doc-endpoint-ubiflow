@@ -17,7 +17,7 @@
 		*string* Type de bien (toujours `room` → chambre)
 - `contract` :
 		*string* Type de contrat (toujours `rental` → location)
-- `nameFR` :
+- `nameFr` :
 		*string* Nom du bien en français
 - `availableAt` :
 		*string* Date de disponibilité du bien (format ISO 8601)
@@ -45,9 +45,9 @@
 		*number* Prix actuel de la chambre (en €)
 - `serviceFees` :
 		*number* Frais provisionels - eau, électricité, internet, gaz (en €)
-- `agencyFeesDescriptionFR` :
+- `agencyFeesDescriptionFr` :
 		*string* Description des frais d'agence (prix minimum du pack-logement) en français
-- `fullDescriptionFR` :
+- `fullDescriptionFr` :
 		*string* Description de la chambre, du logement et du quartier + explication des frais d'agence en français
 - `canonicalUrl` :
 		*string* Url de la page de description du bien sur le site Chez Nestor
