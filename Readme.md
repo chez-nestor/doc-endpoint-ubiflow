@@ -49,7 +49,7 @@
 		*string* Description des frais d'agence (prix minimum du pack-logement) en français
 - `fullDescriptionFr` :
 		*string* Description de la chambre, du logement et du quartier + explication des frais d'agence en français
-- `canonicalUrl` :
+- `canonicalUrlFr` :
 		*string* Url de la page de description du bien sur le site Chez Nestor
 - `gallery` :
 		*array* contenant uniquement des *string* indiquant les urls de chaque image de la galerie. Pour des résons techniques, la description de l'image est inclue à la fin de l'url : "https://www.chez-nestor.com/…&alt=description+de+la+photo"
