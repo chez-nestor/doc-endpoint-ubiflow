@@ -1,10 +1,8 @@
 ## Description du JSON retourné par l'API sur le endpoint Ubiflow:
 
 ### *Racine*
-*hashmap* contenant la clef suivante :
-
-- `rooms` :
-		*array* contenant uniquement des *hashmap* de type *Room*
+*hashmap* des chambres disponibles. Les clefs sont les identifiants uniques des
+chambres et les valeurs sont des *hashmap* de type *Room*.
 
 ### type *Room*
 *hashmap* contenant les clefs suivantes :

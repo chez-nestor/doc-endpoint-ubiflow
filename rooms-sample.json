@@ -1,4 +1,4 @@
-{ "rooms": [{
+{ "89617886-e4ca-4375-9954-9346d133d5d0": {
 	"id": "89617886-e4ca-4375-9954-9346d133d5d0",
 	"reference": "20100GAM23",
 	"type": "room",
@@ -17,14 +17,14 @@
 	"apartmentFloorArea": 76,
 	"currentPrice": 1108,
 	"serviceFees": 30,
-	"agencyFeesDescriptionFr": "à partir de 590€",,
+	"agencyFeesDescriptionFr": "à partir de 590€",
 	"fullDescriptionFr": "…",
 	"canonicalUrlFr": "https://www.chez-nestor.com/fr-FR/room/89617886-e4ca-4375-9954-9346d133d5d0",
 	"gallery": [
-		"https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/c2b7c92e-aa32-4367-80be-ab4dbb90d535?1513864042761&alt=La+chambre"
-		"https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/…?…&alt=Le+salon",
-	],
-}, {
+		"https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/c2b7c92e-aa32-4367-80be-ab4dbb90d535?1513864042761&alt=La+chambre",
+		"https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/…?…&alt=Le+salon"
+	]
+}, "d59c7b36-5e27-48bb-91a3-356fdf6f4f07": {
 	"id": "d59c7b36-5e27-48bb-91a3-356fdf6f4f07",
 	"reference": "8AGR24",
 	"type": "room",
@@ -47,7 +47,7 @@
 	"fullDescriptionFr": "…",
 	"canonicalUrlFr": "https://www.chez-nestor.com/fr-FR/room/d59c7b36-5e27-48bb-91a3-356fdf6f4f07",
 	"gallery": [
-		"https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/c2b7c92e-aa32-4367-80be-ab4dbb90d535?1513864042761&alt=La+chambre"
-		"https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/…?…&alt=Le+salon",
-	],
-}] }
+		"https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/c2b7c92e-aa32-4367-80be-ab4dbb90d535?1513864042761&alt=La+chambre",
+		"https://s3-eu-west-1.amazonaws.com/pictures-staging.chez-nestor.com/…?…&alt=Le+salon"
+	]
+} }
