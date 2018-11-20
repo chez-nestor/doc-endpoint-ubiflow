@@ -51,4 +51,8 @@ chambres et les valeurs sont des *hashmap* de type *Room*.
 		*string* Url de la page de description du bien sur le site Chez Nestor
 - `gallery` :
 		*array* contenant uniquement des *string* indiquant les urls de chaque image de la galerie. Pour des résons techniques, la description de l'image est inclue à la fin de l'url : "https://www.chez-nestor.com/…&alt=description+de+la+photo"
+- `furnished` :
+		*boolean* Logement meublé (toujours `true`)
+- `elevator` :
+		*boolean* Présence d'un ascenseur dans l'immeuble
 
