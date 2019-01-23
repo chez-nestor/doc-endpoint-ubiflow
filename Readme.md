@@ -35,8 +35,10 @@ chambres et les valeurs sont des *hashmap* de type *Room*.
 		*number* Étage de l'appartement
 - `roomFloorArea` :
 		*number* Surface de la chambre (en m²)
-- `roomCount` :
+- `bedroomCount` :
 		*number* Nombre de chambres dans l'appartement
+- `roomCount` :
+		*number* Nombre de pièces dans l'appartement
 - `apartmentFloorArea` :
 		*number* Surface de l'appartement (en m²)
 - `currentPrice` :

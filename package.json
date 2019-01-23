@@ -1,6 +1,6 @@
 {
   "name": "cheznestor-ubiflow",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Documentation and samples of our API for Ubiflow",
   "main": "enums.json",
   "scripts": {
