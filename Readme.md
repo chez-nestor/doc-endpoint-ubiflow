@@ -57,6 +57,6 @@ chambres et les valeurs sont des *hashmap* de type *Room*.
 		*boolean* Logement meublé (toujours `true`)
 - `elevator` :
 		*boolean* Présence d'un ascenseur dans l'immeuble
-- `depositAmount` :
-		*number* Montant de la caution demandée (en €)
+- `depositPrice` :
+		*number* Prix de la caution demandée (en €)
 
