@@ -19,6 +19,8 @@ chambres et les valeurs sont des *hashmap* de type *Room*.
 		*string* Nom du bien en français
 - `availableAt` :
 		*string* Date de disponibilité du bien (format ISO 8601)
+- `availableRooms` :
+		*number* Nombre de chambres disponibles dans l'appartement (sans compter la chambre actuelle)
 - `addressStreet` :
 		*string* Numéro et nom de rue
 - `addressCity` :
@@ -46,7 +48,7 @@ chambres et les valeurs sont des *hashmap* de type *Room*.
 - `serviceFees` :
 		*number* Frais provisionels - eau, électricité, internet, gaz (en €)
 - `agencyFeesDescriptionFr` :
-		*string* Description des frais d'agence (prix minimum du pack-logement) en français
+		*string* Prix du pack logement en €
 - `fullDescriptionFr` :
 		*string* Description de la chambre, du logement et du quartier + explication des frais d'agence en français
 - `canonicalUrlFr` :
